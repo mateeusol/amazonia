@@ -4,7 +4,7 @@ Este projeto é um site simples sobre a fauna da Amazônia, permitindo aos usuá
 
 ## Captura de Tela
 
-![Captura de Tela do Projeto](images/site.png)
+![Captura de Tela do Projeto](image/site.png)
 
 ## Estrutura do Projeto
 
